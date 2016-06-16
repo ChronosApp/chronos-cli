@@ -1,0 +1,4 @@
+package: github.com/ChronosApp/chronos-cli
+import:
+- package: github.com/levigross/grequests
+- package: github.com/mgutz/ansi
